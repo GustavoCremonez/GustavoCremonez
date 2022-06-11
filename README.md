@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Cremonez</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Gustavo Cremonez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoCremonez&color=red" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer 
