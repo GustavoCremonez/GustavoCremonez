@@ -54,5 +54,4 @@
 </a>
 </p>
 
-<img href="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/blob/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/GustavoCremonez/GustavoCremonez/blob/output/github-contribution-grid-snake.svg)
