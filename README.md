@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [AgiliSoftware](https://www.agili.com.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#, .Net, Angular**
 
 
 <br><br>
