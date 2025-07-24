@@ -1,38 +1,62 @@
 <h1 align="center">Hi 👋, I'm Gustavo Cremonez</h1>
-<h3 align="center">A passionate fullstack developer from Brasil</h3>
+<h3 align="center">Fullstack developer focused on building impactful solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavocremonez&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocremonez" /> </p>
-
-- 🔭 I’m currently working on **various projects**
-
-- 🌱 I’m currently learning **Angular, .NET MAUI, software architecture, C#**
-
-- 🤝 I’m looking for help with **Software problems**
-
-- 💬 Ask me about **Angular, C#, SQL Server, Javascript, TypeScript**
-
-- 📫 How to reach me **gustavocremonezgc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gustavocremonez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gustavocremonez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gustavoscremonez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavoscremonez" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavocremonez&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocremonez" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavocremonez&show_icons=true&locale=en&layout=compact" alt="gustavocremonez" /></p>
+🎯 **About me | Sobre mim**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavocremonez&show_icons=true&locale=en" alt="gustavocremonez" /></p>
+- 💻 Developer with 4+ years of experience in software development  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocremonez&" alt="gustavocremonez" /></p>
+- 🧠 Currently working with **Angular, C#, .NET, SQL Server and IA**  
 
+- 🚀 Focused on building real-world projects end-to-end (architecture, dev, deploy)  
 
-###
+- 🔍 Interested in NLP, automation and developer tools  
 
-<br clear="both">
+- 📍 Based in Londrina, Brazil — open to remote and on-site roles (JR/PL)  
 
-<img src="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake.svg" alt="Snake animation" />
+---
 
-###
+🧠 **Key Projects | Principais Projetos**
+
+- [🔧 TarefAI](https://tarefai-eta.vercel.app/) – AI-powered daily meeting task extractor using NLP + LLM, FastAPI, spaCy, Angular, Docker and CI/CD  
+
+---
+
+🛠️ **Tech Stack | Tecnologias**
+
+**Frontend:**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+
+**Backend:**  
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+
+**DevOps & Infra:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Fly.io](https://img.shields.io/badge/-Fly.io-000000?style=flat-square)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Database:**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+📫 **Contact | Contato**
+
+- Email: [gustavocremonezgc@gmail.com](mailto:gustavocremonezgc@gmail.com)  
+- LinkedIn: [GustavoCremonez](https://linkedin.com/in/gustavoscremonez)  
+- Portfolio: [gustavocremonez.dev](https://gustavocremonez.vercel.app/pt)
