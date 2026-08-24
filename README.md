@@ -14,8 +14,7 @@
 ---
 
 Trabalho com backend .NET e frontend Next.js. Fora do expediente eu construo ferramentas —
-CLI, web, PWA, biblioteca, o que o problema pedir — quase sempre porque esbarrei num incômodo
-meu e não achei solução decente.
+CLI, web, PWA, biblioteca, o que o problema pedir.
 
 Meu foco é software que roda em produção e não acorda ninguém de madrugada: contratos bem
 definidos, testes de domínio, deploy automatizado e telemetria desde o primeiro dia.
