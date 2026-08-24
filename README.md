@@ -90,8 +90,5 @@ gestão de RH.
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake.svg" alt="Gráfico de contribuições animado">
-  </picture>
+  <img src="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake.svg" alt="Gráfico de contribuições animado">
 </p>
