@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gustavocremonez.dev">Portfólio</a> ·
+  <a href="https://gustavocremonez.vercel.app/pt">Portfólio</a> ·
   <a href="https://linkedin.com/in/gustavoscremonez">LinkedIn</a> ·
   <a href="mailto:gustavocremonezgc@gmail.com">E-mail</a>
 </p>
@@ -71,8 +71,8 @@ gestão de RH.
 
 ## Antes disso
 
-- **[TarefAI](https://tarefai-eta.vercel.app/)** — extrai tarefas de reuniões diárias com NLP + LLM.
-  FastAPI, spaCy e Angular. [[front](https://github.com/GustavoCremonez/front-end)] · [[back](https://github.com/GustavoCremonez/backend)]
+- **TarefAI** — extrai tarefas de reuniões diárias com NLP + LLM. FastAPI, spaCy e Angular.
+  [[front](https://github.com/GustavoCremonez/front-end)] · [[back](https://github.com/GustavoCremonez/backend)]
 - **[GestureBoard](https://gestureboard.vercel.app)** — interface controlada por gestos, em Angular e TypeScript.
 - **[CleanArchMVC](https://github.com/GustavoCremonez/CleanArchMVC)** — estudo de Clean Architecture em .NET que virou a base de como escrevo backend hoje.
 
