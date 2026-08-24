@@ -122,5 +122,8 @@ Também no dia a dia: EF Core, Dapper, MassTransit, Hangfire, OpenTelemetry, xUn
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake.svg" alt="Gráfico de contribuições animado">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/GustavoCremonez/GustavoCremonez/output/snake.svg" alt="Gráfico de contribuições animado">
+  </picture>
 </p>
