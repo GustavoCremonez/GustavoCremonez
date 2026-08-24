@@ -41,23 +41,17 @@ definidos, testes de domínio, deploy automatizado e telemetria desde o primeiro
   vem das chaves trocadas — não do certificado autoassinado.
   <br>`Node 22+` · `Fastify` · `WebSocket` · `Preact` · `nut.js` · `koffi` · Windows
 
+- **[@registroponto/icons](https://www.npmjs.com/package/@registroponto/icons)** e
+  **[@registroponto/illustrations](https://www.npmjs.com/package/@registroponto/illustrations)** ·
+  [Storybook](https://registro-ponto.github.io/registro-ponto-libs/)
+
+  Design system open source de ícones e ilustrações para produtos de RH, publicado no npm.
+  Contribuo com ícones e com o pipeline de otimização de SVG.
+
 ## No trabalho
 
-Atuo no **[Registro Ponto](https://registroponto.com.br)**, um SaaS de controle de jornada e
-gestão de RH.
-
-- **APIs de Gestão, Ponto Web e Espelho de Ponto** — três serviços .NET 8 em Clean Architecture
-  (Domain, Application, Infra, Jobs), comunicando por **MassTransit/RabbitMQ**, com rotinas em
-  **Hangfire**, cache em **Redis** e tracing via **OpenTelemetry**.
-  Deploy em Docker com pipelines separadas de homologação, produção e rollback.
-
-- **Painéis web em Next.js** — interfaces de gestão e do colaborador em React + TypeScript,
-  com TanStack Query, React Hook Form + Zod, Radix/Tailwind e Storybook como base de componentes.
-
-- **[@registroponto/icons](https://www.npmjs.com/package/@registroponto/icons)** e
-  **[@registroponto/illustrations](https://www.npmjs.com/package/@registroponto/illustrations)** —
-  design system open source de ícones e ilustrações para produtos de RH, publicado no npm
-  e documentado em [Storybook](https://registro-ponto.github.io/registro-ponto-libs/).
+Backend .NET e frontend Next.js em um SaaS de controle de jornada e gestão de RH:
+APIs em Clean Architecture, testes de domínio e deploy automatizado.
 
 ## Stack
 
